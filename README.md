@@ -33,3 +33,4 @@ print("There is a " + adverb + " " + food + "place in " + place + ". Lets go!")
 
 print("So," + friend + " and I started " + verb + " to the restraunt in" + place)
 print (" The " + food + " was " + adj + " as always.")
+  
